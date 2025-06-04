@@ -1,16 +1,52 @@
-## Hi there 👋
+## 👋 Hi there, I'm Joshua Balbi!
 
-<!--
-**JoshuaBalbi/JoshuaBalbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Recent graduate from Tufts University with a double major in **Mechanical Engineering** and **Computer Science**  
+💻 Incoming **Master’s student in Computer Engineering** at **Florida Atlantic University**  
+🌊 Competitive swimmer for the **Peruvian National Swim Team**  
+📱 Passionate about building apps that blend creativity, technology, and user experience  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Languages:** Python, Dart, JavaScript, C/C++, MATLAB, SQL, HTML, CSS  
+- **Frameworks & Tools:** Flutter, Firebase, Git, React, Node.js, Bubble (in progress)  
+- **Database:** Firestore, MySQL  
+- **Other:** Agile, UI/UX Design, REST APIs, Version Control
+
+---
+
+### 🚀 Highlight Projects
+- 📱 [**One Piece Mini-Game Hub**](https://github.com/JoshuaBalbi/one-piece-game-app)  
+  Flutter + Firebase mobile app featuring mini-games, leaderboards, and friend systems.
+
+- 🌬️ **Energy-Saving Automated Window System**  
+  Senior capstone project integrating weather API, user preferences, and hardware control logic in Python.
+
+- 💸 **Wells Fargo Software Simulation (Forage)**  
+  Developed ERD, implemented client-portfolio-security data relationships using Java and Spring Boot.
+
+---
+
+### 📚 Currently Learning
+- Mobile app development  
+- Full-stack architecture  
+- Secure app deployment and scaling  
+- AI integration into user applications  
+
+---
+
+### 🧠 Fun Facts
+- 🏊‍♂️ I’ve broken national swimming records for Peru  
+- 🛠️ I enjoy turning ideas into products—from hardware automation to anime-inspired apps  
+- 🎮 Always down to brainstorm game mechanics or UI designs  
+
+---
+
+### 📫 Connect with Me
+- Email: [balbi.joshua@.com]  
+- LinkedIn: [linkedin.com/in/joshuabalbi](https://www.linkedin.com/in/joshua-balbi-4407981b3/)  
+- GitHub: [github.com/JoshuaBalbi](https://github.com/JoshuaBalbi)
+
+---
+
+Thanks for stopping by! 🚀
