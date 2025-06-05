@@ -36,14 +36,14 @@
 ---
 
 ### 🧠 Fun Facts
-- 🏊‍♂️ I’ve broken national swimming records for Peru  
+- 🏊‍♂️ I have two national swimming records for Peru  
 - 🛠️ I enjoy turning ideas into products—from hardware automation to anime-inspired apps  
-- 🎮 Always down to brainstorm game mechanics or UI designs  
+- 🎮 Always up to brainstorm game mechanics or UI designs  
 
 ---
 
 ### 📫 Connect with Me
-- Email: [balbi.joshua@.com]  
+- Email: [balbi.joshua@gmail.com]  
 - LinkedIn: [linkedin.com/in/joshuabalbi](https://www.linkedin.com/in/joshua-balbi-4407981b3/)  
 - GitHub: [github.com/JoshuaBalbi](https://github.com/JoshuaBalbi)
 
