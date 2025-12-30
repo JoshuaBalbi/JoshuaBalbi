@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Joshua Balbi!
 
 🎓 Recent graduate from Tufts University with a double major in **Mechanical Engineering** and **Computer Science**  
-💻 Incoming **Master’s student in Computer Engineering** at **Florida Atlantic University**  
+💻 **Master’s student in Computer Engineering** at **Florida Atlantic University**  
 🌊 Competitive swimmer for the **Peruvian National Swim Team**  
 📱 Passionate about building apps that blend creativity, technology, and user experience  
 
