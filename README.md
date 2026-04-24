@@ -19,8 +19,8 @@
 - 📱 [**One Piece Mini-Game Hub**](https://github.com/JoshuaBalbi/one-piece-game-app)  
   Flutter + Firebase mobile app featuring mini-games, leaderboards, and friend systems.
 
-- 🌬️ **Energy-Saving Automated Window System**  
-  Senior capstone project integrating weather API, user preferences, and hardware control logic in Python.
+- 🚀 [**Job application tracker**](https://github.com/JoshuaBalbi/job-tracker)   
+  Job application tracker that keeps track of current applications using react, bootstrap, and node.js.
 
 - 💸 **Wells Fargo Software Simulation (Forage)**  
   Developed ERD, implemented client-portfolio-security data relationships using Java and Spring Boot.
