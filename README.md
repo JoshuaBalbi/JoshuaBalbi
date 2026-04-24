@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 Highlight Projects
-- 📱 [**One Piece Mini-Game Hub**](https://github.com/JoshuaBalbi/one-piece-game-app)  
+- 📱 [**One Piece Mini-Game Hub**](https://github.com/JoshuaBalbi/OP-games)  
   Flutter + Firebase mobile app featuring mini-games, leaderboards, and friend systems.
 
 - 🚀 [**Job application tracker**](https://github.com/JoshuaBalbi/job-tracker)   
