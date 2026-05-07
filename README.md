@@ -9,21 +9,23 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python, Dart, JavaScript, C/C++, MATLAB, SQL, HTML, CSS  
-- **Frameworks & Tools:** Flutter, Firebase, Git, React, Node.js, Bubble (in progress)  
+- **Frameworks & Tools:** Flutter, Firebase, Git, React, Node.js, Bubble (in progress)
+- **Cloud:** AWS 
 - **Database:** Firestore, MySQL  
 - **Other:** Agile, UI/UX Design, REST APIs, Version Control
 
 ---
 
 ### 🚀 Highlight Projects
+
+- 🏊 [**SwimSync**](https://github.com/JoshuaBalbi/swimsync)   
+  Cloud-native swim team management platform built with React and AWS featuring AI-powered practice generation, meet management, attendance tracking, and scalable serverless infrastructure.
+  
 - 📱 [**One Piece Mini-Game Hub**](https://github.com/JoshuaBalbi/OPGames)  
   Flutter + Firebase mobile app featuring mini-games, leaderboards, and friend systems.
 
 - 🚀 [**Job application tracker**](https://github.com/JoshuaBalbi/job-tracker)   
   Job application tracker that keeps track of current applications using react, bootstrap, and node.js.
-
-- 💸 **Wells Fargo Software Simulation (Forage)**  
-  Developed ERD, implemented client-portfolio-security data relationships using Java and Spring Boot.
 
 ---
 
